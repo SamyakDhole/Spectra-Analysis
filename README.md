@@ -11,3 +11,4 @@ a. From the spectral data, can you extract property (ie. modulus) from the data 
 b. From spectra of elements and spectra of compounds, find a relationship between them? If we know the spectra from the elements, can we predict some behavior of the compounds? 
 
 c. You can supplement with data from the Materials Project on energy of compounds. Given energy in crystal structures, can you connect electronic structure and stability?
+Huang
